@@ -38,4 +38,5 @@ public:
 
 	//other function
 	int capacity() const { return arrayLength; }
+	123
 };
